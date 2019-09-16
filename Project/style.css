@@ -1,0 +1,22 @@
+.input-group input{
+ width: 15 0px ;
+}
+label{
+    display: inline-block;
+    width: 90px;
+}
+.input-group{
+    text-align: center;
+    margin-bottom: 10px;
+}
+#hh{
+    text-align: center;
+}
+table{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+button{
+    margin-top:20px;
+}
